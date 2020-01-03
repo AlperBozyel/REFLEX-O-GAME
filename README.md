@@ -1,2 +1,2 @@
 # REFLEX-O-GAME
-Includes REFLEX-O game code (made in python turtle)
+GSU INF101 - PYTHON TURTLE GAME PROJECT
